@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ExamenDiagnostico</string>
+
+    <string name="txt_usuario">Usuario</string>
+    <string name="txt_password">Password</string>
+    <string name="btn_registrar"> REGISTRAR</string>
+    <string name="btn_salir">SALIR</string>
+
+    <string name="txt_registro">REGISTRO</string>
+    <string name="txt_consulta">CONSULTA</string>
+    <string name="txt_salir">SALIR</string>
+
+    <string name="txt_herramienta">Herramienta</string>
+    <string name="txt_tipo">Tipo</string>
+    <string name="txt_tamano">Tamaño</string>
+    <string name="txt_codigo">Codigo</string>
+    <string name="txt_precio">Precio</string>
+    <string name="btn_registro">REGISTRAR</string>
+    <string name="btn_menu">MENU</string>
+
+    <string name="edt_consulta">consulta</string>
+
+</resources>
